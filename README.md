@@ -11,6 +11,7 @@ How it works
 This plugin will store prerendered pages into a MongoDB database.
 
 Default values:
+
     mongoUri: mongodb://localhost/prerender // prerender being the database name
     ttl: 86400 // pages will be cached for 1 day
     collection: pages
