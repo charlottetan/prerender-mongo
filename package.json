@@ -1,25 +1,34 @@
 {
-  "name": "prerender-mongo",
-  "version": "0.0.6",
-  "description": "Prerender plugin for MongoDB caching",
+  "name": "prerender-node-mongo",
+  "version": "0.0.1",
+  "description": "Node.js plugin that adds MongoDB caching to
+                  https://github.com/prerender/prerender-node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dottodot/prerender-mongo.git"
+    "url": "git+https://github.com/charlottetan/prerender-node-mongo.git"
   },
   "keywords": [
     "Prerender",
-    "mongodb"
+    "mongodb",
+    "node.js",
+    "node",
+    "angular",
+    "backbone",
+    "emberjs",
+    "meteor",
+    "meteorjs",
+    "seo"
   ],
-  "author": "Marcus Williams",
+  "author": "Charlotte Tan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dottodot/prerender-mongo/issues"
+    "url": "https://github.com/charlottetan/prerender-node-mongo/issues"
   },
-  "homepage": "https://github.com/dottodot/prerender-mongo#readme",
+  "homepage": "https://github.com/charlottetan/prerender-node-mongo#readme",
   "dependencies": {
     "mongodb": "^2.0.43"
   }
