@@ -19,7 +19,7 @@ Default values:
 How to use
 ----------
 
-In your local Express project run:
+In your local Express app run:
 
     $ npm install prerender-node-mongo --save
 
