@@ -1,6 +1,6 @@
 {
   "name": "prerender-node-mongo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js plugin that adds MongoDB caching to https://github.com/prerender/prerender-node",
   "main": "index.js",
   "scripts": {
